@@ -1,4 +1,4 @@
-# projeto-alura-plus
+# Projeto AluraPlus
 Projeto realizado no curso de HTML e CSS da escola de Front-end da Alura.
 
 <p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
